@@ -27,11 +27,13 @@ main > section img {
 footer {
   text-align: center;
 }
+
 footer > button {
   background-color: rgb(11, 146, 72);
   border: none;
   border-radius: 4px;
   color: white;
+  cursor: pointer;
   font-family: EuclidBold;
   font-size: 18px;
   font-weight: 500px;
@@ -39,6 +41,10 @@ footer > button {
   line-height: 20px;
   padding: 9px 23px;
   text-transform: uppercase;
+}
+
+footer > button:hover {
+  background-color: rgba(11, 146, 72, 0.74);
 }
 
 #detalhes-container {
