@@ -10,6 +10,7 @@ A tela contém um único botão que, ao ser usado, exibirá na tela 3 (três) pe
 
 As informações dos personagens devem vir da API do Rick and Morty utilizando javascript para realizar a conexão.
 
+![Imagem de capa do projeto](https://github.com/tomasedson/Desafio-Minicurso/blob/main/img/apresentacao.png?raw=true)
 ## API Rick and Morty Documentação:
 
 [Você pode acessar a documentação da api do Rick and Morty clicando aqui.](https://rickandmortyapi.com/documentation)
@@ -25,5 +26,3 @@ Contém também o arquivo ``app.js`` que é responsável por conectar o resultad
 ## Pasta Styles
 
 Esta pasta contém o arquivo ``index.css`` que é responsável por definir o estilo da tela.
-
-![Imagem de capa do projeto](https://github.com/tomasedson/Desafio-Minicurso/blob/main/img/apresentacao.png?raw=true)
