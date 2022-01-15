@@ -25,3 +25,5 @@ Contém também o arquivo ``app.js`` que é responsável por conectar o resultad
 ## Pasta Styles
 
 Esta pasta contém o arquivo ``index.css`` que é responsável por definir o estilo da tela.
+
+![Imagem de capa do projeto](https://github.com/tomasedson/Desafio-Minicurso/blob/main/img/apresentacao.png?raw=true)
