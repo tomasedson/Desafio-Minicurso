@@ -1,7 +1,4 @@
 const button = document.querySelector('button#visualizar-personagens');
-const nomeDoPersonagem = document.querySelector('#nome');
-const Espécie = document.querySelector('espécie');
-const Condição = document.querySelector('condição');
 const mensagemAlt = "Imagem aleatória do personagem ";
 
 popularPersonagem = (index, data) => {
@@ -19,7 +16,7 @@ pegarPersonagem = () => {
         for (let index = 0; index < data.length; index++) {
             popularPersonagem(index, data[index]);
         }
-        
+
     });
 }
 
